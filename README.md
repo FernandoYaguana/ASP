@@ -19,7 +19,7 @@ To clone this repository to your local machine and start working with the projec
 2. Open the terminal or command line and run the following command to clone the repository:
 
     bash
-    https://github.com/FernandoYaguana/C-.git
+    https://github.com/FernandoYaguana/ASP.git
    
 3. To verify that the repository was cloned correctly, enter the project directory:
    
