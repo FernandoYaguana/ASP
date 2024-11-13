@@ -2,8 +2,6 @@
 
 This is a sample ASP.NET MVC project that displays a simple "Hello World" message in a view. This project helps you understand the basic structure and functioning of views in ASP.NET MVC.
 
-> To view this project in your browser you can click [here](https://asp-production-0a8d.up.railway.app/).
-
 ## Technologies used
 
 - ASP.NET Core MVC
